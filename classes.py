@@ -1,5 +1,5 @@
 """
-Объекты расположены здесь
+Классы расположены здесь
 """
 
 from abc import ABC, abstractmethod
